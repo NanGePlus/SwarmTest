@@ -9,7 +9,6 @@ import os
 
 os.environ["OPENAI_BASE_URL"] = "https://api.wlai.vip/v1"
 os.environ["OPENAI_API_KEY"] = "sk-kFvJf1sAzdI2ArvhDoeBlkyvwy7v08pdMEcClT6xzA4JZYGz"
-os.environ["OPENAI_MODEL_NAME"] = "gpt-4o-mini"
 
 
 

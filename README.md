@@ -3,6 +3,7 @@
 (1)Swarm核心概念介绍                                                           
 (2)相关案例测试Swarm核心功能                         
 相关视频:            
+https://www.bilibili.com/video/BV1wJ6MYeEeE/                       
 https://youtu.be/yGmYFblun0o               
 
 
